@@ -1,0 +1,15 @@
+.container{
+    width: 100%;
+    margin: 0 auto;
+    background-color:bisque;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+}
+
+.container button{
+    background-color:black;
+    color:white;
+    cursor: pointer;
+    margin: 5px;
+    font-weight: bold;
+}
+
